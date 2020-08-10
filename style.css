@@ -707,3 +707,15 @@ p{
     }
 }
 /* Media Query For Dektop*/
+
+/* Media Query For Smartphone */
+@media only screen and (min-width:360px){
+    #home h1{
+        font-size: 63px;
+    }
+    #about .col-left{
+        width: 270px;
+        height: 270px;
+    }
+}
+/* Media Query For Smartphone */
