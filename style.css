@@ -713,9 +713,22 @@ p{
     #home h1{
         font-size: 55px;
     }
+	
     #about .col-left{
         width: 270px;
         height: 270px;
+    }
+
+    #services .service-top p{
+        font-size: 14px;
+        width: 500px;
+        height: 5px;
+        padding: 10 0px;
+        padding-top: 10px;
+    }
+
+    #works .works-info h1{
+        font-size: 30px;
     }
 }
 /* Media Query For Smartphone */
