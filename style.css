@@ -711,7 +711,7 @@ p{
 /* Media Query For Smartphone */
 @media only screen and (min-width:360px){
     #home h1{
-        font-size: 60px;
+        font-size: 55px;
     }
     #about .col-left{
         width: 270px;
