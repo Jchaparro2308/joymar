@@ -453,6 +453,19 @@ p{
 
 }
 
+#app-whatsapp{
+    position: fixed;
+    right: 24px;
+    background: 25px;
+    width: 60px;
+    z-index: 1000;
+    display: none;
+    color: #1ebea5;
+}
+
+#app-whatsapp i{
+   
+
 */
 /* End About Section */
 
